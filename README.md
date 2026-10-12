@@ -1,3 +1,3 @@
 # Metodo Mamae Sem Dor
 
-Quiz site.
+Pagina clonada do quiz.
